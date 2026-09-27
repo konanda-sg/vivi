@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-09-27 11:36:19
+# Generated: 2026-09-27 16:35:11
 # Source: raw vavoo.to catalog URLs
 
 #EXTINF:-1 tvg-name="101 TV .c" group-title="Spain" tvg-logo="https://logo.huhu.to/logo?c=3042734297.png",101 TV
@@ -77,10 +77,6 @@ https://vavoo.to/vavoo-iptv/play/146272350204fef2b1fdad
 #EXTINF:-1 tvg-name="AMC BREAK .c" group-title="Spain" tvg-logo="https://logo.huhu.to/logo?c=3137067513.png",AMC BREAK
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3137067513c74a30090b3f
-
-#EXTINF:-1 tvg-name="AMC HD .b" group-title="Spain",AMC
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/1940642395ece0dbc0c8c9
 
 #EXTINF:-1 tvg-name="AMC LIVING .c" group-title="Spain",AMC LIVING
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -498,6 +494,10 @@ https://vavoo.to/vavoo-iptv/play/13839812917750c6ad1286
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3498233896efe13721ec3
 
+#EXTINF:-1 tvg-name="ESPN 3 .c" group-title="Spain" tvg-logo="https://logo.huhu.to/logo?c=700041261.png",ESPN 3
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/700041261449832baddc7
+
 #EXTINF:-1 tvg-name="ESPN DEPORTES .c" group-title="Spain" tvg-logo="https://logo.huhu.to/logo?c=2648419344.png",ESPNPORTES
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/264841934483c891812cda
@@ -818,6 +818,14 @@ https://vavoo.to/vavoo-iptv/play/19696741218d7802533835
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/851881305a0fa02c31df2
 
+#EXTINF:-1 tvg-name="MOVISTAR LA LIGA 3 .b" group-title="Spain",MOVISTAR LA LIGA 3
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/262571241af1412d0bd59
+
+#EXTINF:-1 tvg-name="MOVISTAR LIGA DE CAMPEONES .b" group-title="Spain",MOVISTAR LIGA CAMPEONES
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/12757844343f601bb69fdf
+
 #EXTINF:-1 tvg-name="MOVISTAR LIGA DE CAMPEONES 1 HD (ONLY EVENT) .b" group-title="Spain",MOVISTAR LIGA CAMPEONES 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1079960250bf7fa0932bdc
@@ -829,10 +837,6 @@ https://vavoo.to/vavoo-iptv/play/99407471309612174606f
 #EXTINF:-1 tvg-name="MOVISTAR LIGA DE CAMPEONES 3 HD (ONLY EVENT) .b" group-title="Spain",MOVISTAR LIGA CAMPEONES 3
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2761614279e0fedd97652a
-
-#EXTINF:-1 tvg-name="MOVISTAR LIGA DE CAMPEONES 4 HD (ONLY EVENT) .b" group-title="Spain",MOVISTAR LIGA CAMPEONES 4
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3447547295cda5cb391fdc
 
 #EXTINF:-1 tvg-name="MOVISTAR SERIES HD .b" group-title="Spain",MOVISTAR SERIES
 #EXTVLCOPT:http-user-agent=VAVOO/2.6

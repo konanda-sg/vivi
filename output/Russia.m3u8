@@ -1,6 +1,10 @@
 #EXTM3U
-# Generated: 2026-09-27 11:36:19
+# Generated: 2026-09-27 16:35:11
 # Source: raw vavoo.to catalog URLs
+
+#EXTINF:-1 tvg-name=".BLACK .b" group-title="Russia",.BLACK
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/11403569519a4b65dbd3c9
 
 #EXTINF:-1 tvg-name=".SCI‑FI .b" group-title="Russia",.SCI‑FI
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -314,6 +318,10 @@ https://vavoo.to/vavoo-iptv/play/18629192755092eb19a41e
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/35824947354fc9a94a99cc
 
+#EXTINF:-1 tvg-name="FASTNFUNBOX HD .b" group-title="Russia",FASTNFUNBOX
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/2590559126f154af044a7f
+
 #EXTINF:-1 tvg-name="FIGHTBOX HD .b" group-title="Russia",FIGHTBOX
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/23356216693b1fd414fca4
@@ -561,6 +569,10 @@ https://vavoo.to/vavoo-iptv/play/1015824518dd2d0a478923
 #EXTINF:-1 tvg-name="MATCH PREMIERE .s" group-title="Russia",MATCH PREMIERE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/969769750e8e6ff224bdd
+
+#EXTINF:-1 tvg-name="MATCH SPORTS [LIVE DURING EVENTS ONLY] .s" group-title="Russia",MATCH SPORTS
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/513586767c7c032d16156
 
 #EXTINF:-1 tvg-name="MATCH TV .s" group-title="Russia",MATCH TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -893,6 +905,14 @@ https://vavoo.to/vavoo-iptv/play/329701427194c3dee57788
 #EXTINF:-1 tvg-name="STAR TB .s" group-title="Russia",STAR TB
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1226383418d1be78e22210
+
+#EXTINF:-1 tvg-name="TB 3 .s" group-title="Russia",TB 3
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/29143416480b647729e1ce
+
+#EXTINF:-1 tvg-name="TBA LIFE .s" group-title="Russia",TBA LIFE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/41604041070cc66bac2490
 
 #EXTINF:-1 tvg-name="TBC .s" group-title="Russia",TBC
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
