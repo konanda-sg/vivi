@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-09-29 04:45:58
+# Generated: 2026-09-29 12:19:34
 # Source: raw vavoo.to catalog URLs
 
 #EXTINF:-1 tvg-name=".BLACK .b" group-title="Russia",.BLACK
@@ -174,10 +174,6 @@ https://vavoo.to/vavoo-iptv/play/6754650388406ae043da1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3377292076a41993fda9f3
 
-#EXTINF:-1 tvg-name="CGTN‑РУССКИЙ .b" group-title="Russia",CGTN‑РУССКИЙ
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/4216517736e60b344c9d6c
-
 #EXTINF:-1 tvg-name="CHE .s" group-title="Russia",CHE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/41007035626e1fa2735e40
@@ -274,17 +270,9 @@ https://vavoo.to/vavoo-iptv/play/19547833036935b6dbbdf2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/674011046bb6a873e899f
 
-#EXTINF:-1 tvg-name="EUREKA .s" group-title="Russia",EUREKA
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/189279748358a3f63e4f5d
-
 #EXTINF:-1 tvg-name="EUROKINO .s" group-title="Russia",EUROKINO
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/82783515dfc3a8b28100
-
-#EXTINF:-1 tvg-name="EURONEWS .b" group-title="Russia",EURONEWS
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/180337323636975f5703d0
 
 #EXTINF:-1 tvg-name="EURONEWS .s" group-title="Russia",EURONEWS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -470,10 +458,6 @@ https://vavoo.to/vavoo-iptv/play/32659974993e159a4c5fc0
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/17925942727abfc688d42
 
-#EXTINF:-1 tvg-name="KINO ROKAS 1 .s" group-title="Russia" tvg-logo="https://logo.huhu.to/logo?c=3147655003.png",KINO ROKAS 1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/314765500334c54b3cab40
-
 #EXTINF:-1 tvg-name="KINO ROKAS 2 .s" group-title="Russia",KINO ROKAS 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/42318636914209b4d4eec1
@@ -546,10 +530,6 @@ https://vavoo.to/vavoo-iptv/play/11388711212e6db4b4e4af
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/4249443615ef9811d3f519
 
-#EXTINF:-1 tvg-name="MATCH FUTBOL 2 .s" group-title="Russia",MATCH FUTBOL 2
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3135842255c73f888bd4e3
-
 #EXTINF:-1 tvg-name="MATCH FUTBOL 3 .s" group-title="Russia",MATCH FUTBOL 3
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/22739063035e5ab0bc6b4f
@@ -557,10 +537,6 @@ https://vavoo.to/vavoo-iptv/play/22739063035e5ab0bc6b4f
 #EXTINF:-1 tvg-name="MATCH IGRA .s" group-title="Russia",MATCH IGRA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/378091407995fa71d7e2d1
-
-#EXTINF:-1 tvg-name="MATCH OUR SPORTS .s" group-title="Russia",MATCH OUR SPORTS
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/34296168417a4a58e5026
 
 #EXTINF:-1 tvg-name="MATCH PREMIERE .s" group-title="Russia",MATCH PREMIERE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -713,10 +689,6 @@ https://vavoo.to/vavoo-iptv/play/47885688119605bc9f899
 #EXTINF:-1 tvg-name="PARAMOUNT CHANNEL .b" group-title="Russia",PARAMOUNT CHANNEL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/37331871626d30d153f066
-
-#EXTINF:-1 tvg-name="PARAMOUNT CHANNEL .s" group-title="Russia",PARAMOUNT CHANNEL
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/76242220790757446597a
 
 #EXTINF:-1 tvg-name="PARAMOUNT COMEDY .b" group-title="Russia",PARAMOUNT COMEDY
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -957,10 +929,6 @@ https://vavoo.to/vavoo-iptv/play/3566174635cc900a46850b
 #EXTINF:-1 tvg-name="TNT MUSIC .s" group-title="Russia",TNT MUSIC
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2530234158f580e2fde86c
-
-#EXTINF:-1 tvg-name="TOCHIKA ORTIVA .s" group-title="Russia",TOCHIKA ORTIVA
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/82912891eb03bed2ea4e
 
 #EXTINF:-1 tvg-name="TRACE SPORT STARS HD .b" group-title="Russia",TRACE SPORT STARS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
