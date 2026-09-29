@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-09-28 23:00:49
+# Generated: 2026-09-29 04:45:58
 # Source: raw vavoo.to catalog URLs
 
 #EXTINF:-1 tvg-name="13 ULICA .c" group-title="Poland" tvg-logo="https://logo.huhu.to/logo?c=1699787152.png",13 ULICA
@@ -33,10 +33,6 @@ https://vavoo.to/vavoo-iptv/play/2588849148c9e85e5a1887
 #EXTINF:-1 tvg-name="4FUN.TV .b" group-title="Poland",4FUN.TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/52457937726d7d263e4b2
-
-#EXTINF:-1 tvg-name="ACTIVE FAMILY .b" group-title="Poland",ACTIVE FAMILY
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/2855812815cda5e7934f7a
 
 #EXTINF:-1 tvg-name="ACTIVE FAMILY .c" group-title="Poland" tvg-logo="https://logo.huhu.to/logo?c=3826931887.png",ACTIVE FAMILY
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -189,10 +185,6 @@ https://vavoo.to/vavoo-iptv/play/34126711763fd282334f35
 #EXTINF:-1 tvg-name="CANAL FILM HD .b" group-title="Poland",CANAL FILM
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/192645230664acfa58faa7
-
-#EXTINF:-1 tvg-name="CANAL HD .b" group-title="Poland",CANAL
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/8671852307094ad4ebd22
 
 #EXTINF:-1 tvg-name="CANAL NOW .b" group-title="Poland",CANAL NOW
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -374,10 +366,6 @@ https://vavoo.to/vavoo-iptv/play/21367213512b32691c0603
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3933402174d61c47784e65
 
-#EXTINF:-1 tvg-name="CINEMAX POLAND 10 FHD .b" group-title="Poland",CINEMAX POLAND 10
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/41005017774334344ca926
-
 #EXTINF:-1 tvg-name="CINEMAX POLAND 11 FHD .b" group-title="Poland",CINEMAX POLAND 11
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/380971553844bc0771244a
@@ -390,14 +378,6 @@ https://vavoo.to/vavoo-iptv/play/36678270954e017cf8e691
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3454373332118022e6df7b
 
-#EXTINF:-1 tvg-name="CINEMAX POLAND 14 FHD .b" group-title="Poland",CINEMAX POLAND 14
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/28440576293dbf193629b2
-
-#EXTINF:-1 tvg-name="CINEMAX POLAND 15 FHD .b" group-title="Poland",CINEMAX POLAND 15
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/320444527839af7cac3a86
-
 #EXTINF:-1 tvg-name="CINEMAX POLAND 16 FHD .b" group-title="Poland",CINEMAX POLAND 16
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2272446619a825e9bc1b36
@@ -405,10 +385,6 @@ https://vavoo.to/vavoo-iptv/play/2272446619a825e9bc1b36
 #EXTINF:-1 tvg-name="CINEMAX POLAND 17 FHD .b" group-title="Poland",CINEMAX POLAND 17
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/241656546401735e71c8f3
-
-#EXTINF:-1 tvg-name="CINEMAX POLAND 18 FHD .b" group-title="Poland",CINEMAX POLAND 18
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/133693927341a7da7b1b7f
 
 #EXTINF:-1 tvg-name="CINEMAX POLAND 19 FHD .b" group-title="Poland",CINEMAX POLAND 19
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -418,21 +394,17 @@ https://vavoo.to/vavoo-iptv/play/1489700682eb4b8f2bc44c
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3556755707f8820f9b6a88
 
+#EXTINF:-1 tvg-name="CINEMAX POLAND 20 FHD .b" group-title="Poland",CINEMAX POLAND 20
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/5263221942190ef37227b
+
 #EXTINF:-1 tvg-name="CINEMAX POLAND 3 FHD .b" group-title="Poland",CINEMAX POLAND 3
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3297041592738ac7febf69
 
-#EXTINF:-1 tvg-name="CINEMAX POLAND 4 FHD .b" group-title="Poland",CINEMAX POLAND 4
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/26994077293fbb9b1422ec
-
 #EXTINF:-1 tvg-name="CINEMAX POLAND 5 FHD .b" group-title="Poland",CINEMAX POLAND 5
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/30806275063c591ebc0fec
-
-#EXTINF:-1 tvg-name="CINEMAX POLAND 6 FHD .b" group-title="Poland",CINEMAX POLAND 6
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/2383649271af98fbd6e9b6
 
 #EXTINF:-1 tvg-name="CINEMAX POLAND 7 FHD .b" group-title="Poland",CINEMAX POLAND 7
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -462,17 +434,9 @@ https://vavoo.to/vavoo-iptv/play/17077565390a60054185b0
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3453122284b5b78edef66a
 
-#EXTINF:-1 tvg-name="DA VINCI .b" group-title="Poland",DA VINCI
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/1100598548c13a0dede7d6
-
 #EXTINF:-1 tvg-name="DA VINCI KIDS .c" group-title="Poland" tvg-logo="https://logo.huhu.to/logo?c=3663650028.png",DA VINCI KIDS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/36636500280c598cb0d5b5
-
-#EXTINF:-1 tvg-name="DISCO POLO MUSIC .b" group-title="Poland",DISCO POLO MUSIC
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/1469133702b5ed6541928f
 
 #EXTINF:-1 tvg-name="DISCO POLO MUSIC .c" group-title="Poland" tvg-logo="https://logo.huhu.to/logo?c=81805306.png",DISCO POLO MUSIC
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -513,10 +477,6 @@ https://vavoo.to/vavoo-iptv/play/9034221600972e8525115
 #EXTINF:-1 tvg-name="DISCOVERY WORLD .c" group-title="Poland" tvg-logo="https://logo.huhu.to/logo?c=2241163706.png",DISCOVERY WORLD
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2241163706490bbe44a441
-
-#EXTINF:-1 tvg-name="DISNEY CHANNEL HD .b" group-title="Poland",DISNEY CHANNEL
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/426632608169dd5767fa2a
 
 #EXTINF:-1 tvg-name="DISNEY JUNIOR .b" group-title="Poland",DISNEY JUNIOR
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -642,10 +602,6 @@ https://vavoo.to/vavoo-iptv/play/2088155483c468d132e90
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3645374252e54dc3d87f27
 
-#EXTINF:-1 tvg-name="ESKA TV EXTRA .b" group-title="Poland",ESKA TV EXTRA
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/157002337818bfd7dda8b1
-
 #EXTINF:-1 tvg-name="ESKA TV EXTRA .c" group-title="Poland" tvg-logo="https://logo.huhu.to/logo?c=330744242.png",ESKA TV EXTRA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3307442427015ce2ae388
@@ -677,10 +633,6 @@ https://vavoo.to/vavoo-iptv/play/13528675415cc9406c27bb
 #EXTINF:-1 tvg-name="EUROSPORT 2 .c" group-title="Poland" tvg-logo="https://logo.huhu.to/logo?c=602326565.png",EUROSPORT 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/60232656519a6d3d9c7fa
-
-#EXTINF:-1 tvg-name="EUROSPORT 2 HD .b" group-title="Poland",EUROSPORT 2
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/43425919751c71a9af03f
 
 #EXTINF:-1 tvg-name="EUROSPORT 3 .c" group-title="Poland",EUROSPORT 3
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -902,10 +854,6 @@ https://vavoo.to/vavoo-iptv/play/383572850219dc03b13d8b
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/20369315133b87b0c93a58
 
-#EXTINF:-1 tvg-name="KSW PPV (MATCH TIME) .c" group-title="Poland",KSW PPV
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/215802413243b7387b1c5e
-
 #EXTINF:-1 tvg-name="KUCHNIA HD .b" group-title="Poland",KUCHNIA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/775764829dd73529f16d
@@ -982,10 +930,6 @@ https://vavoo.to/vavoo-iptv/play/8236585817cbb8f75594b
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1794039230c0fcf0248fb0
 
-#EXTINF:-1 tvg-name="MYZEN POLSKA 4K .c" group-title="Poland",MYZEN POLSKA
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/1424796604aeb641f36cc2
-
 #EXTINF:-1 tvg-name="NAT GEO .c" group-title="Poland" tvg-logo="https://logo.huhu.to/logo?c=1567511198.png",NAT GEO
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/15675111987cef68c56bf8
@@ -1009,6 +953,10 @@ https://vavoo.to/vavoo-iptv/play/1133813399ef295faea0e7
 #EXTINF:-1 tvg-name="NATIONAL GEO .b" group-title="Poland",NATIONAL GEO
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/45221710708d4df328717
+
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC WILD .b" group-title="Poland",NATIONAL GEOGRAPHIC WILD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/3673566291cd6e56c3203f
 
 #EXTINF:-1 tvg-name="NEWS 24 .c" group-title="Poland",NEWS 24
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1094,6 +1042,10 @@ https://vavoo.to/vavoo-iptv/play/926991235611656f2a5c7
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/406654468704f71b465c37
 
+#EXTINF:-1 tvg-name="POLSAT CAFE .c" group-title="Poland" tvg-logo="https://logo.huhu.to/logo?c=3413559872.png",POLSAT CAFE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/3413559872930829076334
+
 #EXTINF:-1 tvg-name="POLSAT CAFE HD .b" group-title="Poland",POLSAT CAFE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/189043094ed8e82be4f51
@@ -1178,6 +1130,10 @@ https://vavoo.to/vavoo-iptv/play/38126898201b7b7fb48d53
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/404434648404b402f63e6e
 
+#EXTINF:-1 tvg-name="POLSAT RODZINA .c" group-title="Poland" tvg-logo="https://logo.huhu.to/logo?c=4143781640.png",POLSAT RODZINA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/41437816409e9f7312c4d7
+
 #EXTINF:-1 tvg-name="POLSAT ROMANS .b" group-title="Poland",POLSAT ROMANS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/777651930d585ebb1f27c
@@ -1233,6 +1189,10 @@ https://vavoo.to/vavoo-iptv/play/4127619445cf4df25ec846
 #EXTINF:-1 tvg-name="POLSAT SPORT HD .b" group-title="Poland",POLSAT SPORT
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/23614419587e9457dfe9
+
+#EXTINF:-1 tvg-name="POLSAT SPORT NEWS .b" group-title="Poland",POLSAT SPORT NEWS
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/235062438617d6222bd232
 
 #EXTINF:-1 tvg-name="POLSAT SPORT NEWS .c" group-title="Poland" tvg-logo="https://logo.huhu.to/logo?c=2683658971.png",POLSAT SPORT NEWS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1749,10 +1709,6 @@ https://vavoo.to/vavoo-iptv/play/1609624142892d8f3d3d9d
 #EXTINF:-1 tvg-name="TVP KOBIETA .c" group-title="Poland",TVP KOBIETA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/17093483764400529f224e
-
-#EXTINF:-1 tvg-name="TVP KULTURA .b" group-title="Poland",TVP KULTURA
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/310069643426d959184aab
 
 #EXTINF:-1 tvg-name="TVP KULTURA .c" group-title="Poland" tvg-logo="https://logo.huhu.to/logo?c=3415541634.png",TVP KULTURA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
