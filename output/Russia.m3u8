@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-09-30 12:05:09
+# Generated: 2026-09-30 21:58:00
 # Source: raw vavoo.to catalog URLs
 
 #EXTINF:-1 tvg-name=".BLACK .b" group-title="Russia",.BLACK
@@ -338,6 +338,10 @@ https://vavoo.to/vavoo-iptv/play/1165123222b5e2f47aef31
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1085048278ead73f5f4f4b
 
+#EXTINF:-1 tvg-name="FOOD NETWORK .b" group-title="Russia",FOOD NETWORK
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/2153874526b8ffae72bc37
+
 #EXTINF:-1 tvg-name="FOOD NETWORK .s" group-title="Russia",FOOD NETWORK
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3313401586a552388cf9f3
@@ -466,10 +470,6 @@ https://vavoo.to/vavoo-iptv/play/32659974993e159a4c5fc0
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/17925942727abfc688d42
 
-#EXTINF:-1 tvg-name="KINO ROKAS 1 .s" group-title="Russia" tvg-logo="https://logo.huhu.to/logo?c=3147655003.png",KINO ROKAS 1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/314765500334c54b3cab40
-
 #EXTINF:-1 tvg-name="KINO ROKAS 2 .s" group-title="Russia",KINO ROKAS 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/42318636914209b4d4eec1
@@ -529,10 +529,6 @@ https://vavoo.to/vavoo-iptv/play/33691926142dda703ca7be
 #EXTINF:-1 tvg-name="MATCH (MAT4) .s" group-title="Russia",MATCH
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3439044659f41512f7adee
-
-#EXTINF:-1 tvg-name="MATCH ARENA .s" group-title="Russia",MATCH ARENA
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/23918359973d081de311c5
 
 #EXTINF:-1 tvg-name="MATCH BOX .s" group-title="Russia",MATCH BOX
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -909,10 +905,6 @@ https://vavoo.to/vavoo-iptv/play/41604041070cc66bac2490
 #EXTINF:-1 tvg-name="TBC .s" group-title="Russia",TBC
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2026484172ae158a72ec78
-
-#EXTINF:-1 tvg-name="TELE CAFE .s" group-title="Russia",TELE CAFE
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/1561761111b889a9b5662b
 
 #EXTINF:-1 tvg-name="TELEPUTESHESTVYA .s" group-title="Russia",TELEPUTESHESTVYA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
