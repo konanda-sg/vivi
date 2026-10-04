@@ -1,14 +1,6 @@
 #EXTM3U
-# Generated: 2026-10-04 04:48:19
+# Generated: 2026-10-04 11:55:09
 # Source: raw vavoo.to catalog URLs
-
-#EXTINF:-1 tvg-name=".BLACK .b" group-title="Russia",.BLACK
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/11403569519a4b65dbd3c9
-
-#EXTINF:-1 tvg-name=".RED HD .b" group-title="Russia",.RED
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/27211650603aa803141a7d
 
 #EXTINF:-1 tvg-name=".SCI‑FI .b" group-title="Russia",.SCI‑FI
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -17,10 +9,6 @@ https://vavoo.to/vavoo-iptv/play/8858445202e2ac20b5656
 #EXTINF:-1 tvg-name="24 TECHNO .s" group-title="Russia",24 TECHNO
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/4223838354ce43479f5c1c
-
-#EXTINF:-1 tvg-name="2X2 TV .s" group-title="Russia",2X2 TV
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/315716754464580c53e16a
 
 #EXTINF:-1 tvg-name="360 TUNEBOX .s" group-title="Russia",360 TUNEBOX
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -654,13 +642,13 @@ https://vavoo.to/vavoo-iptv/play/1227689972bf6b597f652f
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3035071846e72ae515a5cd
 
-#EXTINF:-1 tvg-name="M‑1 GLOBAL .b" group-title="Russia",M‑1 GLOBAL
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3212760536770b59dd1bae
-
 #EXTINF:-1 tvg-name="NASHE KINO .s" group-title="Russia",NASHE KINO
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3863276446ea8dd5cd9209
+
+#EXTINF:-1 tvg-name="NAT GEO .s" group-title="Russia",NAT GEO
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/2614433133f8c813ca3d5a
 
 #EXTINF:-1 tvg-name="NAT GEO WILD .s" group-title="Russia",NAT GEO WILD
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -681,14 +669,6 @@ https://vavoo.to/vavoo-iptv/play/25783989e9f0fc86d265
 #EXTINF:-1 tvg-name="NICK JR. .b" group-title="Russia",NICK JR.
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/12271914897157c6e6d141
-
-#EXTINF:-1 tvg-name="NICKELODEON .s" group-title="Russia",NICKELODEON
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/148643273381a78b6ff13c
-
-#EXTINF:-1 tvg-name="NICKELODEON HD .b" group-title="Russia",NICKELODEON
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/302064724750065d097261
 
 #EXTINF:-1 tvg-name="NICKTOONS .b" group-title="Russia",NICKTOONS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
