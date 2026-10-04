@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-10-04 11:55:09
+# Generated: 2026-10-04 16:36:38
 # Source: raw vavoo.to catalog URLs
 
 #EXTINF:-1 tvg-name="111 TV .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=1600139819.png",111 TV
@@ -14,10 +14,6 @@ https://vavoo.to/vavoo-iptv/play/631792369df7bdd7e9291
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/12303381856673f2a33deb
 
-#EXTINF:-1 tvg-name="27 TWENTY SEVEN .s" group-title="Italy",27 TWENTY SEVEN
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/6087746837741766a74b3
-
 #EXTINF:-1 tvg-name="27 TWENTYSEVEN .c" group-title="Italy",27 TWENTYSEVEN
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/80896559d4a6e09d36f1
@@ -29,10 +25,6 @@ https://vavoo.to/vavoo-iptv/play/4124613557378009dcb051
 #EXTINF:-1 tvg-name="51 RADIO TV .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=4216245552.png",51 RADIO TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/42162455520e0fbef4fafe
-
-#EXTINF:-1 tvg-name="7 YOU & ME .c" group-title="Italy",7 YOU & ME
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/178775175831e62385f371
 
 #EXTINF:-1 tvg-name="70-80.IT .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=3701871205.png",70-80.IT
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -210,10 +202,6 @@ https://vavoo.to/vavoo-iptv/play/1251695137b2f1b46ebe5b
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/390600788675c13850cd70
 
-#EXTINF:-1 tvg-name="CANALE 21 EXTRA .s" group-title="Italy",CANALE 21 EXTRA
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/24545581364a76ecd911e4
-
 #EXTINF:-1 tvg-name="CANALE 21 LAZIO .s" group-title="Italy",CANALE 21 LAZIO
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/36744884556a262b65d9c9
@@ -350,10 +338,6 @@ https://vavoo.to/vavoo-iptv/play/21132730647ae733a10331
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3037871903561253a95659
 
-#EXTINF:-1 tvg-name="DISCOVERY MOTOR TREND .s" group-title="Italy",DISCOVERY MOTOR TREND
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/97773955c19a27b2c14d
-
 #EXTINF:-1 tvg-name="DISCOVERY NOVE (BACKUP) .s" group-title="Italy",DISCOVERY NOVE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/626836488bc21fb731967
@@ -409,6 +393,10 @@ https://vavoo.to/vavoo-iptv/play/3525104604d4e472fa9bd7
 #EXTINF:-1 tvg-name="ESPERIA TV 18 .s" group-title="Italy",ESPERIA TV 18
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1812508372213288a6925f
+
+#EXTINF:-1 tvg-name="ETV MARCHE .s" group-title="Italy",ETV MARCHE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/273312373c6b3b01f31cf
 
 #EXTINF:-1 tvg-name="ETV RETE 7 .s" group-title="Italy",ETV RETE 7
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -934,10 +922,6 @@ https://vavoo.to/vavoo-iptv/play/392192791518851ccc8b0a
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/26276627684bd1fbc5cb29
 
-#EXTINF:-1 tvg-name="RAI .s" group-title="Italy",RAI
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3582607806269cf9583f2e
-
 #EXTINF:-1 tvg-name="RAI 1 .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=875922788.png",RAI 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/875922788627becc98639
@@ -1150,9 +1134,9 @@ https://vavoo.to/vavoo-iptv/play/413105501853266fc8e1b9
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/9045710792ef9d1059b86
 
-#EXTINF:-1 tvg-name="RETE VENETA .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=1085172353.png",RETE VENETA
+#EXTINF:-1 tvg-name="RETE VENETA (VENETO) .s" group-title="Italy",RETE VENETA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/10851723533da93b5683eb
+https://vavoo.to/vavoo-iptv/play/3999322464caf93535eb45
 
 #EXTINF:-1 tvg-name="RETE VENETA .s" group-title="Italy",RETE VENETA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1582,6 +1566,14 @@ https://vavoo.to/vavoo-iptv/play/83094948658201829f87a
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/33428493134b007f2ed197
 
+#EXTINF:-1 tvg-name="SPORTITALIA SOLOCALCIO .c" group-title="Italy",SPORTITALIA SOLOCALCIO
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/21984103395cacdfaf1d34
+
+#EXTINF:-1 tvg-name="ST EUROPE CHANNEL .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=2356295928.png",ST EUROPE CHANNEL
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/2356295928676bcb269bb3
+
 #EXTINF:-1 tvg-name="STAR CHANNEL .c" group-title="Italy",STAR CHANNEL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/323779351103799e6e03b2
@@ -1653,10 +1645,6 @@ https://vavoo.to/vavoo-iptv/play/18735208961b5fab514ef8
 #EXTINF:-1 tvg-name="TELE CHIARA .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=2487986216.png",TELE CHIARA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2487986216af30aedb116a
-
-#EXTINF:-1 tvg-name="TELE CHIARA .s" group-title="Italy",TELE CHIARA
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/2521825076452ac13ce197
 
 #EXTINF:-1 tvg-name="TELE FRIULI .s" group-title="Italy",TELE FRIULI
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1770,6 +1758,10 @@ https://vavoo.to/vavoo-iptv/play/1670818396815a6c065dd0
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1794299695413e7553c574
 
+#EXTINF:-1 tvg-name="TELEQUATTRO .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=1083984669.png",TELEQUATTRO
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/10839846696ddb422bcd88
+
 #EXTINF:-1 tvg-name="TELERAMA .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=4017608910.png",TELERAMA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/4017608910fce4d0302c20
@@ -1797,6 +1789,10 @@ https://vavoo.to/vavoo-iptv/play/1785098768e3514b1dbecc
 #EXTINF:-1 tvg-name="TG NORBA 24 .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=3379729817.png",TG NORBA 24
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/33797298178cac7afa180a
+
+#EXTINF:-1 tvg-name="TG NORBA 24 .s" group-title="Italy",TG NORBA 24
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/3413557893b1ed86e5018c
 
 #EXTINF:-1 tvg-name="TGCOM 24 .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=2418148449.png",TGCOM 24
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1885,10 +1881,6 @@ https://vavoo.to/vavoo-iptv/play/3765504418d7a4047993c
 #EXTINF:-1 tvg-name="UNIRE SAT .s" group-title="Italy",UNIRE SAT
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3731369487fd45b7dfe0dc
-
-#EXTINF:-1 tvg-name="UNIRESAT .s" group-title="Italy",UNIRESAT
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/979345080238d742d1b8f
 
 #EXTINF:-1 tvg-name="VCO AZZURRA TV .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=2070070755.png",VCO AZZURRA TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
