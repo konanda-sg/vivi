@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-10-07 12:50:31
+# Generated: 2026-10-07 22:51:20
 # Source: raw vavoo.to catalog URLs
 
 #EXTINF:-1 tvg-name=".BLACK .b" group-title="Russia",.BLACK
@@ -29,10 +29,6 @@ https://vavoo.to/vavoo-iptv/play/9828143438e140eb471a
 #EXTINF:-1 tvg-name="360 НОВОСТИ .b" group-title="Russia",360 НОВОСТИ
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1091733503a136df29c545
-
-#EXTINF:-1 tvg-name="365 DAYS .s" group-title="Russia",365 DAYS
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3879975969c27fce923c2e
 
 #EXTINF:-1 tvg-name="365 ДНЕЙ ТВ .b" group-title="Russia",365 ДНЕЙ ТВ
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -197,10 +193,6 @@ https://vavoo.to/vavoo-iptv/play/1831060051d265bd419f00
 #EXTINF:-1 tvg-name="COMEDY HD .b" group-title="Russia",COMEDY
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/413134348167ab605bb65f
-
-#EXTINF:-1 tvg-name="CTC .s" group-title="Russia",CTC
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/255848970f673d5b0f311
 
 #EXTINF:-1 tvg-name="DA VINCI .b" group-title="Russia",DA VINCI
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -746,10 +738,6 @@ https://vavoo.to/vavoo-iptv/play/68731494842a7bdc52fa
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2839455200ab8629d163a
 
-#EXTINF:-1 tvg-name="PREMIERE .s" group-title="Russia",PREMIERE
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/39223723953e7b541aa3a9
-
 #EXTINF:-1 tvg-name="PREMIERE HD .b" group-title="Russia",PREMIERE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/22306603773e07c03a08
@@ -997,14 +985,6 @@ https://vavoo.to/vavoo-iptv/play/417197353cbbe73b4e467
 #EXTINF:-1 tvg-name="TV 1000 HD .b" group-title="Russia",TV 1000
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/4124897079d71b74873a38
-
-#EXTINF:-1 tvg-name="TV 1000 MEGAHIT .s" group-title="Russia",TV 1000 MEGAHIT
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/4595173082d3c5362bae6
-
-#EXTINF:-1 tvg-name="TV 1000 PREMIUM .s" group-title="Russia",TV 1000 PREMIUM
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/21093251353cccfd4742ab
 
 #EXTINF:-1 tvg-name="TV 1000 PYCCKOE .s" group-title="Russia",TV 1000 PYCCKOE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
