@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-10-11 21:36:53
+# Generated: 2026-10-12 04:51:22
 # Source: raw vavoo.to catalog URLs
 
 #EXTINF:-1 tvg-name=".BLACK .b" group-title="Russia",.BLACK
@@ -286,10 +286,6 @@ https://vavoo.to/vavoo-iptv/play/189279748358a3f63e4f5d
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/82783515dfc3a8b28100
 
-#EXTINF:-1 tvg-name="EURONEWS .b" group-title="Russia",EURONEWS
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/180337323636975f5703d0
-
 #EXTINF:-1 tvg-name="EUROPA PLUS .s" group-title="Russia",EUROPA PLUS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1584186306145ffd7f8ffc
@@ -445,10 +441,6 @@ https://vavoo.to/vavoo-iptv/play/274155986507fa3db19108
 #EXTINF:-1 tvg-name="KINO CINEMA .s" group-title="Russia",KINO CINEMA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/353992658428920fc5a943
-
-#EXTINF:-1 tvg-name="KINO FILM .s" group-title="Russia",KINO FILM
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/18581858771cac30ffc5a1
 
 #EXTINF:-1 tvg-name="KINO HIT .s" group-title="Russia",KINO HIT
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -898,10 +890,6 @@ https://vavoo.to/vavoo-iptv/play/3515755195dd9422757627
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3369873388cba72339f8a7
 
-#EXTINF:-1 tvg-name="STAR .s" group-title="Russia",STAR
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/329701427194c3dee57788
-
 #EXTINF:-1 tvg-name="STAR TB .s" group-title="Russia",STAR TB
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1226383418d1be78e22210
@@ -1053,10 +1041,6 @@ https://vavoo.to/vavoo-iptv/play/4053261448a5dd8a8bdde
 #EXTINF:-1 tvg-name="VIASAT EXPLORE HD .b" group-title="Russia",VIASAT EXPLORE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/764758875a0fa2f44cfec
-
-#EXTINF:-1 tvg-name="VIASAT EXPLORER .s" group-title="Russia",VIASAT EXPLORER
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/1633452913563956ec5060
 
 #EXTINF:-1 tvg-name="VIASAT HISTORY .s" group-title="Russia",VIASAT HISTORY
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
