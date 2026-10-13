@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-10-13 13:45:24
+# Generated: 2026-10-13 22:23:17
 # Source: raw vavoo.to catalog URLs
 
 #EXTINF:-1 tvg-name="13 ULICA .c" group-title="Poland" tvg-logo="https://logo.huhu.to/logo?c=1699787152.png",13 ULICA
@@ -33,10 +33,6 @@ https://vavoo.to/vavoo-iptv/play/2588849148c9e85e5a1887
 #EXTINF:-1 tvg-name="4FUN.TV .b" group-title="Poland",4FUN.TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/52457937726d7d263e4b2
-
-#EXTINF:-1 tvg-name="ACTIVE FAMILY .b" group-title="Poland",ACTIVE FAMILY
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/2855812815cda5e7934f7a
 
 #EXTINF:-1 tvg-name="ACTIVE FAMILY .c" group-title="Poland" tvg-logo="https://logo.huhu.to/logo?c=3826931887.png",ACTIVE FAMILY
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -489,10 +485,6 @@ https://vavoo.to/vavoo-iptv/play/1100598548c13a0dede7d6
 #EXTINF:-1 tvg-name="DA VINCI KIDS .c" group-title="Poland" tvg-logo="https://logo.huhu.to/logo?c=3663650028.png",DA VINCI KIDS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/36636500280c598cb0d5b5
-
-#EXTINF:-1 tvg-name="DISCO POLO MUSIC .b" group-title="Poland",DISCO POLO MUSIC
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/1469133702b5ed6541928f
 
 #EXTINF:-1 tvg-name="DISCO POLO MUSIC .c" group-title="Poland" tvg-logo="https://logo.huhu.to/logo?c=81805306.png",DISCO POLO MUSIC
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1202,6 +1194,14 @@ https://vavoo.to/vavoo-iptv/play/1513427389de1d984cd388
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/37665401474a1320a99ea7
 
+#EXTINF:-1 tvg-name="POLSAT PLAY HD .b" group-title="Poland",POLSAT PLAY
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/22625610894b6a8b183e3e
+
+#EXTINF:-1 tvg-name="POLSAT REALITY .c" group-title="Poland",POLSAT REALITY
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/38126898201b7b7fb48d53
+
 #EXTINF:-1 tvg-name="POLSAT RODZINA .b" group-title="Poland",POLSAT RODZINA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/404434648404b402f63e6e
@@ -1398,9 +1398,17 @@ https://vavoo.to/vavoo-iptv/play/3866572238ddad6c43b0d1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/27152422709b1766ea819a
 
+#EXTINF:-1 tvg-name="SPORT KLUB .b" group-title="Poland",SPORT KLUB
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/6811816394302e6a2d645
+
 #EXTINF:-1 tvg-name="SPORT KLUB .c" group-title="Poland" tvg-logo="https://logo.huhu.to/logo?c=1618047268.png",SPORT KLUB
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1618047268622d180aa1ee
+
+#EXTINF:-1 tvg-name="SPORTKLUB HD .b" group-title="Poland",SPORTKLUB
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/26270112672188e3001667
 
 #EXTINF:-1 tvg-name="SPORTOWA TV .c" group-title="Poland",SPORTOWA TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
