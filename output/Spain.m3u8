@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-10-15 21:01:42
+# Generated: 2026-10-16 03:35:22
 # Source: raw vavoo.to catalog URLs
 
 #EXTINF:-1 tvg-name="101 TV .c" group-title="Spain" tvg-logo="https://logo.huhu.to/logo?c=3042734297.png",101 TV
@@ -161,10 +161,6 @@ https://vavoo.to/vavoo-iptv/play/3939390473ccb14145d1c8
 #EXTINF:-1 tvg-name="BEIN SPORTS N .b" group-title="Spain",BEIN SPORTS N
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/5812925251f1a9e631d0e
-
-#EXTINF:-1 tvg-name="BEIN SPORTS N .c" group-title="Spain" tvg-logo="https://logo.huhu.to/logo?c=3580225131.png",BEIN SPORTS N
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/358022513199a152e11448
 
 #EXTINF:-1 tvg-name="BEIN SPORTS XTRA Ñ .c" group-title="Spain" tvg-logo="https://logo.huhu.to/logo?c=979824657.png",BEIN SPORTS XTRA Ñ
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -534,10 +530,6 @@ https://vavoo.to/vavoo-iptv/play/13646765354d48c44c48ee
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/34746923364fda5c6d183d
 
-#EXTINF:-1 tvg-name="EUROSPORT 2 .b" group-title="Spain",EUROSPORT 2
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/36204944534de72eaba372
-
 #EXTINF:-1 tvg-name="EUROSPORT 2 .c" group-title="Spain" tvg-logo="https://logo.huhu.to/logo?c=2670144662.png",EUROSPORT 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2670144662ab93240c576b
@@ -785,10 +777,6 @@ https://vavoo.to/vavoo-iptv/play/369799243877c07b241614
 #EXTINF:-1 tvg-name="MOVISTAR COMEDIA HD .b" group-title="Spain",MOVISTAR COMEDIA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/128504332060a4fe38a8e9
-
-#EXTINF:-1 tvg-name="MOVISTAR DEPORTE 1 HD .b" group-title="Spain",MOVISTARPORTE 1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/16240905772a1bd64a3b10
 
 #EXTINF:-1 tvg-name="MOVISTAR DEPORTES .b" group-title="Spain",MOVISTARPORTES
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1093,6 +1081,10 @@ https://vavoo.to/vavoo-iptv/play/312665602260e2bc1dfcaf
 #EXTINF:-1 tvg-name="TBN ESPANA .c" group-title="Spain",TBN ESPANA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/613422954277471010df8
+
+#EXTINF:-1 tvg-name="TCM .c" group-title="Spain" tvg-logo="https://logo.huhu.to/logo?c=3891466198.png",TCM
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/38914661982b143724ed00
 
 #EXTINF:-1 tvg-name="TCM HD .b" group-title="Spain",TCM
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
