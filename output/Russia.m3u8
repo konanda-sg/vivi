@@ -1,10 +1,10 @@
 #EXTM3U
-# Generated: 2026-10-18 10:33:10
+# Generated: 2026-10-18 15:32:19
 # Source: raw vavoo.to catalog URLs
 
-#EXTINF:-1 tvg-name=".BLACK .b" group-title="Russia",.BLACK
+#EXTINF:-1 tvg-name=".RED HD .b" group-title="Russia",.RED
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/11403569519a4b65dbd3c9
+https://vavoo.to/vavoo-iptv/play/27211650603aa803141a7d
 
 #EXTINF:-1 tvg-name=".SCI‑FI .b" group-title="Russia",.SCI‑FI
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -270,6 +270,10 @@ https://vavoo.to/vavoo-iptv/play/41242916388dfff54a51bc
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/22306603773e07c03a08
 
+#EXTINF:-1 tvg-name="RT (АНГЛИЙСКИЙ) .b" group-title="Russia" tvg-logo="https://logo.huhu.to/logo?c=489189427.png",RT
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/4891894270eb013585686
+
 #EXTINF:-1 tvg-name="RTG HD .b" group-title="Russia",RTG
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3899332015d2a8b11d6f62
@@ -401,10 +405,6 @@ https://vavoo.to/vavoo-iptv/play/232311462777584bdd07aa
 #EXTINF:-1 tvg-name="ДОКТОР .b" group-title="Russia",ДОКТОР
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/9139538248e1a0494ca00
-
-#EXTINF:-1 tvg-name="ДОМАШНИЕ ЖИВОТНЫЕ .b" group-title="Russia",ДОМАШНИЕ ЖИВОТНЫЕ
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/4879857419ea9e365bea9
 
 #EXTINF:-1 tvg-name="ДОМАШНИЙ .b" group-title="Russia",ДОМАШНИЙ
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -726,6 +726,10 @@ https://vavoo.to/vavoo-iptv/play/7374072166ba0270b9bc0
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/42541058089c7709e89871
 
+#EXTINF:-1 tvg-name="РОССИЯ 1 +2 .b" group-title="Russia",РОССИЯ 1 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/66042311743a68bcaf49d
+
 #EXTINF:-1 tvg-name="РОССИЯ 1 +4 .b" group-title="Russia",РОССИЯ 1 4
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2820519021aaac5c496919
@@ -750,6 +754,10 @@ https://vavoo.to/vavoo-iptv/play/24425768105db83a0a345a
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/847607886bd9af14de58
 
+#EXTINF:-1 tvg-name="РУССКИЙ БЕСТСЕЛЛЕР .b" group-title="Russia",РУССКИЙ БЕСТСЕЛЛЕР
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/2750405215018227dd0a15
+
 #EXTINF:-1 tvg-name="РУССКИЙ ДЕТЕКТИВ .b" group-title="Russia",РУССКИЙ ДЕТЕКТИВ
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1863005721eaba70dba3c5
@@ -769,10 +777,6 @@ https://vavoo.to/vavoo-iptv/play/8624610736b72d324b06c
 #EXTINF:-1 tvg-name="САРАФАН .b" group-title="Russia",САРАФАН
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/23434045954b34ece56605
-
-#EXTINF:-1 tvg-name="СПАС .b" group-title="Russia",СПАС
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/2723978799f6711f28c600
 
 #EXTINF:-1 tvg-name="СТАРТ HD .b" group-title="Russia",СТАРТ
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
