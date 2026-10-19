@@ -1,14 +1,10 @@
 #EXTM3U
-# Generated: 2026-10-18 20:14:28
+# Generated: 2026-10-19 03:42:17
 # Source: raw vavoo.to catalog URLs
 
 #EXTINF:-1 tvg-name=".BLACK .b" group-title="Russia",.BLACK
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/11403569519a4b65dbd3c9
-
-#EXTINF:-1 tvg-name=".RED HD .b" group-title="Russia",.RED
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/27211650603aa803141a7d
 
 #EXTINF:-1 tvg-name=".SCI‑FI .b" group-title="Russia",.SCI‑FI
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -570,6 +566,10 @@ https://vavoo.to/vavoo-iptv/play/22739063035e5ab0bc6b4f
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/378091407995fa71d7e2d1
 
+#EXTINF:-1 tvg-name="MATCH OUR SPORTS .s" group-title="Russia",MATCH OUR SPORTS
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/34296168417a4a58e5026
+
 #EXTINF:-1 tvg-name="MATCH PLANET .s" group-title="Russia",MATCH PLANET
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1015824518dd2d0a478923
@@ -798,6 +798,10 @@ https://vavoo.to/vavoo-iptv/play/4891894270eb013585686
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1854792689410c4f2ba0db
 
+#EXTINF:-1 tvg-name="RTDOCUMENTARY .s" group-title="Russia",RTDOCUMENTARY
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/25440515281b4485620c56
+
 #EXTINF:-1 tvg-name="RTG .s" group-title="Russia",RTG
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/99134763234d78572ced7
@@ -829,6 +833,10 @@ https://vavoo.to/vavoo-iptv/play/762353583ddde07aed73f
 #EXTINF:-1 tvg-name="RUSSIA BESTSELLER .s" group-title="Russia",RUSSIA BESTSELLER
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3807352996489c47df1aab
+
+#EXTINF:-1 tvg-name="RUSSIA COMEDY .s" group-title="Russia",RUSSIA COMEDY
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/1556048326ee628f8652c5
 
 #EXTINF:-1 tvg-name="RUSSIA DETECTIVE .s" group-title="Russia",RUSSIATECTIVE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -873,6 +881,10 @@ https://vavoo.to/vavoo-iptv/play/4059146305ce39e29f9722
 #EXTINF:-1 tvg-name="SHANSON TV .s" group-title="Russia",SHANSON TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2283174119f6d463116ee4
+
+#EXTINF:-1 tvg-name="SHOP&SHOW .b" group-title="Russia",SHOP&SHOW
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/3456277187ae9c2865dd14
 
 #EXTINF:-1 tvg-name="SHOPPING LIVE .b" group-title="Russia",SHOPPING LIVE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6

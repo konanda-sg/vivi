@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-10-18 20:14:28
+# Generated: 2026-10-19 03:42:17
 # Source: raw vavoo.to catalog URLs
 
 #EXTINF:-1 tvg-name="4 MUSIC .s" group-title="United Kingdom",4 MUSIC
@@ -66,10 +66,6 @@ https://vavoo.to/vavoo-iptv/play/24662433362d90e00309b2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/417517201313bcf7a4caf2
 
-#EXTINF:-1 tvg-name="ABP NEWS .s" group-title="United Kingdom" tvg-logo="https://logo.huhu.to/logo?c=149206071.png",ABP NEWS
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/149206071edd5adffceb4
-
 #EXTINF:-1 tvg-name="ABSOLUTE .b" group-title="United Kingdom",ABSOLUTE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/363694639925507a872139
@@ -121,6 +117,10 @@ https://vavoo.to/vavoo-iptv/play/26070549074ffbfb693c90
 #EXTINF:-1 tvg-name="ARISE NEWS .b" group-title="United Kingdom",ARISE NEWS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3532839539b4c04b25cec1
+
+#EXTINF:-1 tvg-name="ARY DIGITAL .b" group-title="United Kingdom" tvg-logo="https://logo.huhu.to/logo?c=3735119877.png",ARY DIGITAL
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/373511987781fe34ce3351
 
 #EXTINF:-1 tvg-name="ARY DIGITAL .s" group-title="United Kingdom" tvg-logo="https://logo.huhu.to/logo?c=2174328112.png",ARY DIGITAL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -222,17 +222,9 @@ https://vavoo.to/vavoo-iptv/play/4708189018e7c80cde0eb
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/578027428d8193f1a5640
 
-#EXTINF:-1 tvg-name="BBC ONE E MID .b" group-title="United Kingdom",BBC ONE E MID
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/283404811d3b95fad627a
-
 #EXTINF:-1 tvg-name="BBC ONE EAST E .b" group-title="United Kingdom",BBC ONE EAST E
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3049102539402e34a458db
-
-#EXTINF:-1 tvg-name="BBC ONE EAST W .b" group-title="United Kingdom",BBC ONE EAST W
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/2946324521d6a4cca74c2d
 
 #EXTINF:-1 tvg-name="BBC ONE LONDON .b" group-title="United Kingdom",BBC ONE LONDON
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -334,10 +326,6 @@ https://vavoo.to/vavoo-iptv/play/648656775881cd0f0740e
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3620837545480805b3318c
 
-#EXTINF:-1 tvg-name="BEIN SPORTS LA LIGA .b" group-title="United Kingdom",BEIN SPORTS LA LIGA
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/13386460690b72b50b0839
-
 #EXTINF:-1 tvg-name="BEIN SPORTS USA .s" group-title="United Kingdom",BEIN SPORTS USA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/240472529623ba039f17e9
@@ -386,21 +374,9 @@ https://vavoo.to/vavoo-iptv/play/244918217714dad8496dfb
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3916244172746880fe4783
 
-#EXTINF:-1 tvg-name="BOX NATION .b" group-title="United Kingdom",BOX NATION
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/11316321752f64e88aba36
-
 #EXTINF:-1 tvg-name="BOX NATION .s" group-title="United Kingdom",BOX NATION
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3241634213ce11ec413215
-
-#EXTINF:-1 tvg-name="BRADFORD CITY A.F.C. .s" group-title="United Kingdom",BRADFORD CITY A.F.C.
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/125856061167dc5335e2ab
-
-#EXTINF:-1 tvg-name="BRISTOL ROVERS F.C. .s" group-title="United Kingdom",BRISTOL ROVERS F.C.
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3045444140893c2fe448c2
 
 #EXTINF:-1 tvg-name="BRIT ASIA TV .b" group-title="United Kingdom" tvg-logo="https://logo.huhu.to/logo?c=3191140068.png",BRIT ASIA TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -453,6 +429,10 @@ https://vavoo.to/vavoo-iptv/play/3352660234714a7f3c3896
 #EXTINF:-1 tvg-name="BT SPORT ESPN HD .b" group-title="United Kingdom",BT SPORT ESPN
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/40802680329724cb15ca9
+
+#EXTINF:-1 tvg-name="BURTON ALBION F.C. .s" group-title="United Kingdom",BURTON ALBION F.C.
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/3126909136623a7c7e3ca7
 
 #EXTINF:-1 tvg-name="C4 L .b" group-title="United Kingdom",C4 L
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -542,10 +522,6 @@ https://vavoo.to/vavoo-iptv/play/37198016422e31cfe43a84
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2466401133b8ebdd5185ae
 
-#EXTINF:-1 tvg-name="CHAMPS COVENTRY CITY .s" group-title="United Kingdom",CHAMPS COVENTRY CITY
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/343761723410307d12cb4
-
 #EXTINF:-1 tvg-name="CHAMPS DERBY COUNTY .s" group-title="United Kingdom",CHAMPSRBY COUNTY
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1098865295d99d6934c6ba
@@ -598,21 +574,9 @@ https://vavoo.to/vavoo-iptv/play/153059635799d49a639fc0
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/320724055910bb4a014752
 
-#EXTINF:-1 tvg-name="CHAMPS STOKE CITY .s" group-title="United Kingdom",CHAMPS STOKE CITY
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/4077336625e00aaff41269
-
-#EXTINF:-1 tvg-name="CHAMPS SWANSEA CITY .s" group-title="United Kingdom",CHAMPS SWANSEA CITY
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/9675379907a5762d368b
-
 #EXTINF:-1 tvg-name="CHAMPS WATFORD F.C. .s" group-title="United Kingdom",CHAMPS WATFORD F.C.
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/8782536513fb5d8341a02
-
-#EXTINF:-1 tvg-name="CHAMPS WEST BROMWICH ALBION F.C. .s" group-title="United Kingdom",CHAMPS WEST BROMWICH ALBION F.C.
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/2336552491f20873f5242c
 
 #EXTINF:-1 tvg-name="CHAMPS WREXHAM A.F.C. .s" group-title="United Kingdom",CHAMPS WREXHAM A.F.C.
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -654,14 +618,6 @@ https://vavoo.to/vavoo-iptv/play/37126900704341da58a29d
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3454665449f40603d54bfb
 
-#EXTINF:-1 tvg-name="CHANNELS 24 .b" group-title="United Kingdom",CHANNELS 24
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/642506415c4ae5def2f67
-
-#EXTINF:-1 tvg-name="CHELTENHAM TOWN F.C. .s" group-title="United Kingdom",CHELTENHAM TOWN F.C.
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/4199843158dd76466f7dba
-
 #EXTINF:-1 tvg-name="CHESTERFIELD F.C. .s" group-title="United Kingdom",CHESTERFIELD F.C.
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/731975744f8e3940fc4b3
@@ -693,10 +649,6 @@ https://vavoo.to/vavoo-iptv/play/57133078061beeb51f76
 #EXTINF:-1 tvg-name="CNBC NEWS .s" group-title="United Kingdom",CNBC NEWS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2617240602ae6ed84bcc52
-
-#EXTINF:-1 tvg-name="CNN .b" group-title="United Kingdom" tvg-logo="https://logo.huhu.to/logo?c=1962567354.png",CNN
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/19625673545bc5198c7aa6
 
 #EXTINF:-1 tvg-name="CNN .s" group-title="United Kingdom" tvg-logo="https://logo.huhu.to/logo?c=191216932.png",CNN
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -774,6 +726,10 @@ https://vavoo.to/vavoo-iptv/play/415538164205e5902b4d99
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3783739771303538919cc6
 
+#EXTINF:-1 tvg-name="DISCOVERY HISTORY .b" group-title="United Kingdom" tvg-logo="https://logo.huhu.to/logo?c=1151638913.png",DISCOVERY HISTORY
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/1151638913fc083d3d1b49
+
 #EXTINF:-1 tvg-name="DISCOVERY ID .b" group-title="United Kingdom",DISCOVERY ID
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3654944975bb9ddcf7d69f
@@ -782,10 +738,6 @@ https://vavoo.to/vavoo-iptv/play/3654944975bb9ddcf7d69f
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/26216426445f249a5aee3a
 
-#EXTINF:-1 tvg-name="DISCOVERY SHED .b" group-title="United Kingdom",DISCOVERY SHED
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/1086852791839d5322e7aa
-
 #EXTINF:-1 tvg-name="DISCOVERY TURBO .b" group-title="United Kingdom" tvg-logo="https://logo.huhu.to/logo?c=2100320635.png",DISCOVERY TURBO
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2100320635a05a52b88b62
@@ -793,6 +745,10 @@ https://vavoo.to/vavoo-iptv/play/2100320635a05a52b88b62
 #EXTINF:-1 tvg-name="DISCOVERY TURBO .s" group-title="United Kingdom" tvg-logo="https://logo.huhu.to/logo?c=1703040214.png",DISCOVERY TURBO
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1703040214fabd8a83ea48
+
+#EXTINF:-1 tvg-name="DISNEY CHANNEL .b" group-title="United Kingdom",DISNEY CHANNEL
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/27075763748eba9a2a820c
 
 #EXTINF:-1 tvg-name="DISNEY CHANNEL .s" group-title="United Kingdom",DISNEY CHANNEL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -813,6 +769,10 @@ https://vavoo.to/vavoo-iptv/play/16432978714b8bb29ccad6
 #EXTINF:-1 tvg-name="DISNEY XD .s" group-title="United Kingdom",DISNEY XD
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2449536426596862547c9a
+
+#EXTINF:-1 tvg-name="DISNEY+ .s" group-title="United Kingdom" tvg-logo="https://logo.huhu.to/logo?c=4182066520.png",DISNEY
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/4182066520362839990638
 
 #EXTINF:-1 tvg-name="DMAX .b" group-title="United Kingdom",DMAX
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -950,6 +910,10 @@ https://vavoo.to/vavoo-iptv/play/2334732226c51a311a64a8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/174271140991cded06c41
 
+#EXTINF:-1 tvg-name="EPL 07 20:00 FULHAM VS BRENTFORD .s" group-title="United Kingdom",EPL 07 20:00 FULHAM VS BRENTFORD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/389963165994c8e967fdd6
+
 #EXTINF:-1 tvg-name="EPL 08 .s" group-title="United Kingdom",EPL 08
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/194156427548848c256722
@@ -1025,6 +989,10 @@ https://vavoo.to/vavoo-iptv/play/1433927321d79d585662ea
 #EXTINF:-1 tvg-name="FIGHT BOX .b" group-title="United Kingdom",FIGHT BOX
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/31845928794e6cc2b87599
+
+#EXTINF:-1 tvg-name="FILM 4 .s" group-title="United Kingdom",FILM 4
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/303106634171bacef168dd
 
 #EXTINF:-1 tvg-name="FILM4 .b" group-title="United Kingdom",FILM4
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1426,6 +1394,10 @@ https://vavoo.to/vavoo-iptv/play/139311525745b1563858ec
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/386737027097d4f5e797d0
 
+#EXTINF:-1 tvg-name="KIDS 1 .s" group-title="United Kingdom",KIDS 1
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/1840291331852db2c74953
+
 #EXTINF:-1 tvg-name="KIDS 2 .s" group-title="United Kingdom",KIDS 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/705750227b492bd7e51d9
@@ -1469,6 +1441,10 @@ https://vavoo.to/vavoo-iptv/play/371513553808876a23954b
 #EXTINF:-1 tvg-name="LASERFILMS HISTORY .s" group-title="United Kingdom",LASERFILMS HISTORY
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2041559703364871c72343
+
+#EXTINF:-1 tvg-name="LASERILMS CRIME .s" group-title="United Kingdom",LASERILMS CRIME
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/280628822640f3d6904378
 
 #EXTINF:-1 tvg-name="LEGEND .s" group-title="United Kingdom",LEGEND
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1650,13 +1626,13 @@ https://vavoo.to/vavoo-iptv/play/337718313a14120c52d4c
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1259985180048766ad447d
 
+#EXTINF:-1 tvg-name="NICKELODEON .b" group-title="United Kingdom",NICKELODEON
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/406235616455f438a9bb72
+
 #EXTINF:-1 tvg-name="NICKELODEON .s" group-title="United Kingdom",NICKELODEON
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2904184817215153f410a2
-
-#EXTINF:-1 tvg-name="NICKTOONS .b" group-title="United Kingdom",NICKTOONS
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/1756114272e4aafe831eb2
 
 #EXTINF:-1 tvg-name="NICKTOONS .s" group-title="United Kingdom",NICKTOONS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1770,6 +1746,10 @@ https://vavoo.to/vavoo-iptv/play/327703488c50e26648501
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/826945096dab2f32d2c16
 
+#EXTINF:-1 tvg-name="PLYMOUTH ARGYLE F.C. .s" group-title="United Kingdom",PLYMOUTH ARGYLE F.C.
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/3043026085a967c1c2ea5f
+
 #EXTINF:-1 tvg-name="POP +1 .s" group-title="United Kingdom",POP 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/23877775862cfdca3ab66d
@@ -1834,6 +1814,10 @@ https://vavoo.to/vavoo-iptv/play/400257568389e116a9ae50
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/66846369908f6b5250d77
 
+#EXTINF:-1 tvg-name="PRIVATE EYES .s" group-title="United Kingdom",PRIVATE EYES
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/402877139428c32992baf9
+
 #EXTINF:-1 tvg-name="PTC PUNJABI .s" group-title="United Kingdom" tvg-logo="https://logo.huhu.to/logo?c=1889106941.png",PTC PUNJABI
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1889106941502f8e492208
@@ -1890,6 +1874,10 @@ https://vavoo.to/vavoo-iptv/play/3936114127f3bc702fa519
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/381188435310e69d52b7f7
 
+#EXTINF:-1 tvg-name="READING F.C. .s" group-title="United Kingdom",READING F.C.
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/18974311628635ac92dcaf
+
 #EXTINF:-1 tvg-name="REALLY .b" group-title="United Kingdom",REALLY
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1943438201368d5932ba1d
@@ -1901,6 +1889,10 @@ https://vavoo.to/vavoo-iptv/play/15978882194ad493731c11
 #EXTINF:-1 tvg-name="RED BULL TV .b" group-title="United Kingdom" tvg-logo="https://logo.huhu.to/logo?c=85204628.png",RED BULL TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/852046284590b908de7e
+
+#EXTINF:-1 tvg-name="RESIDENT ALIEN ꜱᴇƦꞮᴇ .s" group-title="United Kingdom",RESIDENT ALIEN ꜱᴇƦꞮᴇ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/42470475869e0386eac0c
 
 #EXTINF:-1 tvg-name="REVELATION .b" group-title="United Kingdom",REVELATION
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1958,6 +1950,10 @@ https://vavoo.to/vavoo-iptv/play/1049807868f8784253827e
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/11135781726dcdc44acc35
 
+#EXTINF:-1 tvg-name="SALFORD CITY F.C. .s" group-title="United Kingdom",SALFORD CITY F.C.
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/3729887141af04ac759cc3
+
 #EXTINF:-1 tvg-name="SAMUEL L JACKSON .s" group-title="United Kingdom",SAMUEL L JACKSON
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1996055165597727878a57
@@ -1985,6 +1981,14 @@ https://vavoo.to/vavoo-iptv/play/2075104756a5bc16274e8
 #EXTINF:-1 tvg-name="SHE RA AND THE PRINCESS OF POWER .s" group-title="United Kingdom",SHE RA AND THE PRINCESS OF POWER
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1190226032869ac135ab3e
+
+#EXTINF:-1 tvg-name="SHOWCASE .b" group-title="United Kingdom",SHOWCASE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/280948479872ca8bfb8967
+
+#EXTINF:-1 tvg-name="SHOWCASE .s" group-title="United Kingdom",SHOWCASE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/14001751997009214ae612
 
 #EXTINF:-1 tvg-name="SIKH CHANNEL .b" group-title="United Kingdom",SIKH CHANNEL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -2450,6 +2454,10 @@ https://vavoo.to/vavoo-iptv/play/1077894636c86b231de350
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1019310494dae7e2243b72
 
+#EXTINF:-1 tvg-name="STAR TREK PICARD ꜱᴇƦꞮᴇ .s" group-title="United Kingdom",STAR TREK PICARD ꜱᴇƦꞮᴇ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/124216003236e19a39df17
+
 #EXTINF:-1 tvg-name="STARZ TV .s" group-title="United Kingdom",STARZ TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3619055892a92a748f9a74
@@ -2661,6 +2669,10 @@ https://vavoo.to/vavoo-iptv/play/286621502761c1cf925c6b
 #EXTINF:-1 tvg-name="U & DRAMA .s" group-title="United Kingdom",U & DRAMA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/4061807874bacc8d43a24d
+
+#EXTINF:-1 tvg-name="UFC FIGHT NIGHT PASS .s" group-title="United Kingdom",UFC FIGHT NIGHT PASS
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/24906175654c3233771512
 
 #EXTINF:-1 tvg-name="UNIVERSAL CHANNEL .s" group-title="United Kingdom",UNIVERSAL CHANNEL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
