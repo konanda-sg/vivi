@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-10-20 11:03:54
+# Generated: 2026-10-20 16:29:44
 # Source: raw vavoo.to catalog URLs
 
 #EXTINF:-1 tvg-name=".BLACK .b" group-title="Russia",.BLACK
@@ -253,6 +253,10 @@ https://vavoo.to/vavoo-iptv/play/36929441861909abd4a0e1
 #EXTINF:-1 tvg-name="DOMASHNIY .s" group-title="Russia",DOMASHNIY
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/4245290927160d162a6176
+
+#EXTINF:-1 tvg-name="DORAMA .b" group-title="Russia",DORAMA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/184505918564c5f30b9924
 
 #EXTINF:-1 tvg-name="DOZHD TV .s" group-title="Russia",DOZHD TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -933,6 +937,10 @@ https://vavoo.to/vavoo-iptv/play/1466461372d9e8b8cecbe0
 #EXTINF:-1 tvg-name="THT 4 .s" group-title="Russia",THT 4
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/316704812c1d16f66f94c
+
+#EXTINF:-1 tvg-name="THT MUSIC .s" group-title="Russia",THT MUSIC
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/2045635278962af29ba91e
 
 #EXTINF:-1 tvg-name="TIJI .b" group-title="Russia",TIJI
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
