@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-10-20 16:29:44
+# Generated: 2026-10-20 21:21:07
 # Source: raw vavoo.to catalog URLs
 
 #EXTINF:-1 tvg-name="111 TV .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=1600139819.png",111 TV
@@ -329,10 +329,6 @@ https://vavoo.to/vavoo-iptv/play/963607327f90ada131395
 #EXTINF:-1 tvg-name="DEEJAY TV .s" group-title="Italy",DEEJAY TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319
-
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=1955739367.png",DISCOVERY CHANNEL
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/1955739367e1de6e90adc1
 
 #EXTINF:-1 tvg-name="DISCOVERY CHANNEL .s" group-title="Italy",DISCOVERY CHANNEL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1190,9 +1186,17 @@ https://vavoo.to/vavoo-iptv/play/24556102030a38fc13c387
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/22903950460d6b257bf610
 
+#EXTINF:-1 tvg-name="RSI LA 2 .c" group-title="Italy",RSI LA 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/3590183307ca309aa6be37
+
 #EXTINF:-1 tvg-name="RSI LA 2 .s" group-title="Italy",RSI LA 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3475299702c52e31a7073f
+
+#EXTINF:-1 tvg-name="RTC TELECALABRIA .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=639406775.png",RTC TELECALABRIA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/639406775e0288e6772cc
 
 #EXTINF:-1 tvg-name="RTL 102.5 .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=3168132911.png",RTL 102.5
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1317,10 +1321,6 @@ https://vavoo.to/vavoo-iptv/play/18209975559b8c5058ae7f
 #EXTINF:-1 tvg-name="SKY CINEMA SUSPENSE .s" group-title="Italy",SKY CINEMA SUSPENSE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06
-
-#EXTINF:-1 tvg-name="SKY CINEMA UNO +24 .c" group-title="Italy",SKY CINEMA UNO 24
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/2236517134d5e218f6528e
 
 #EXTINF:-1 tvg-name="SKY CINEMA UNO +24 .s" group-title="Italy",SKY CINEMA UNO 24
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
