@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-10-20 21:21:07
+# Generated: 2026-10-21 03:43:29
 # Source: raw vavoo.to catalog URLs
 
 #EXTINF:-1 tvg-name=".BLACK .b" group-title="Russia",.BLACK
@@ -41,6 +41,10 @@ https://vavoo.to/vavoo-iptv/play/2815985947abfebdba9d25
 #EXTINF:-1 tvg-name="5 KANAL .s" group-title="Russia",5 KANAL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/15835461165105772d34b7
+
+#EXTINF:-1 tvg-name="8 КАНАЛ .b" group-title="Russia",8 КАНАЛ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/2111492302983ebb46240f
 
 #EXTINF:-1 tvg-name="A 2 .s" group-title="Russia",A 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -434,10 +438,6 @@ https://vavoo.to/vavoo-iptv/play/3609920790c7b8625d6de
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/20669156379258d0775b49
 
-#EXTINF:-1 tvg-name="KHL .b" group-title="Russia",KHL
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/2890854598f5b804149c2
-
 #EXTINF:-1 tvg-name="KHL PRIME .b" group-title="Russia",KHL PRIME
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/4045527153e90ef006c64a
@@ -541,10 +541,6 @@ https://vavoo.to/vavoo-iptv/play/214734707ce37736494ca
 #EXTINF:-1 tvg-name="MAMA .s" group-title="Russia",MAMA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/33691926142dda703ca7be
-
-#EXTINF:-1 tvg-name="MATCH (MAT4) .s" group-title="Russia",MATCH
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3439044659f41512f7adee
 
 #EXTINF:-1 tvg-name="MATCH ARENA .s" group-title="Russia",MATCH ARENA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1245,10 +1241,6 @@ https://vavoo.to/vavoo-iptv/play/2809722704d7a90bf2acaf
 #EXTINF:-1 tvg-name="КВН ТВ .b" group-title="Russia",КВН ТВ
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/646612816bb1a90c91b0f
-
-#EXTINF:-1 tvg-name="КИНО ТВ .b" group-title="Russia",КИНО ТВ
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/2442441826941316753e96
 
 #EXTINF:-1 tvg-name="КИНОКОМЕДИЯ .b" group-title="Russia",КИНОКОМЕДИЯ
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
