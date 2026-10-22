@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-10-22 03:43:19
+# Generated: 2026-10-22 11:19:46
 # Source: raw vavoo.to catalog URLs
 
 #EXTINF:-1 tvg-name="13 ULICA .c" group-title="Poland" tvg-logo="https://logo.huhu.to/logo?c=1699787152.png",13 ULICA
@@ -310,10 +310,6 @@ https://vavoo.to/vavoo-iptv/play/41803423298f18b92da6d1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/42755822772b0785da795e
 
-#EXTINF:-1 tvg-name="CANAL+ SPORT 3 .b" group-title="Poland",CANAL SPORT 3
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3293241225da191d1bbed6
-
 #EXTINF:-1 tvg-name="CANAL+ SPORT 3 .c" group-title="Poland" tvg-logo="https://logo.huhu.to/logo?c=3283623157.png",CANAL SPORT 3
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/32836231570e5d35807626
@@ -457,6 +453,10 @@ https://vavoo.to/vavoo-iptv/play/2383649271af98fbd6e9b6
 #EXTINF:-1 tvg-name="CINEMAX POLAND 7 FHD .b" group-title="Poland",CINEMAX POLAND 7
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2573766068609c95a80c7b
+
+#EXTINF:-1 tvg-name="CINEMAX POLAND 8 FHD .b" group-title="Poland",CINEMAX POLAND 8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/11881191410e437bd7d0e5
 
 #EXTINF:-1 tvg-name="CINEMAX POLAND 9 FHD .b" group-title="Poland",CINEMAX POLAND 9
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1410,6 +1410,10 @@ https://vavoo.to/vavoo-iptv/play/6811816394302e6a2d645
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1618047268622d180aa1ee
 
+#EXTINF:-1 tvg-name="SPORTKLUB HD .b" group-title="Poland",SPORTKLUB
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/26270112672188e3001667
+
 #EXTINF:-1 tvg-name="SPORTOWA TV .c" group-title="Poland",SPORTOWA TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/15910651905aea61dbaa7a
@@ -1421,6 +1425,10 @@ https://vavoo.to/vavoo-iptv/play/4113862971353c1a3f5588
 #EXTINF:-1 tvg-name="STARS.TV .b" group-title="Poland",STARS.TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/534760666a42b950377c1
+
+#EXTINF:-1 tvg-name="STOPKLATKA TV .b" group-title="Poland",STOPKLATKA TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/1291874011cd56ad8f451e
 
 #EXTINF:-1 tvg-name="STOPKLATKA TV .c" group-title="Poland" tvg-logo="https://logo.huhu.to/logo?c=52562107.png",STOPKLATKA TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1766,6 +1774,10 @@ https://vavoo.to/vavoo-iptv/play/3336246194c7cb2ec956f8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3854795987d1c141d68104
 
+#EXTINF:-1 tvg-name="TVP ABC .b" group-title="Poland",TVP ABC
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/3887683423eb4ce26fb82f
+
 #EXTINF:-1 tvg-name="TVP ABC .c" group-title="Poland" tvg-logo="https://logo.huhu.to/logo?c=848096719.png",TVP ABC
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/848096719ed95277c2b8d
@@ -1838,6 +1850,10 @@ https://vavoo.to/vavoo-iptv/play/1463467003938f48194736
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/612328203f5ce7db9053c
 
+#EXTINF:-1 tvg-name="TVP SPORT .b" group-title="Poland",TVP SPORT
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/385437754454d0d7037a32
+
 #EXTINF:-1 tvg-name="TVP SPORT .c" group-title="Poland" tvg-logo="https://logo.huhu.to/logo?c=1843300747.png",TVP SPORT
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1843300747c5b755585f7c
@@ -1857,10 +1873,6 @@ https://vavoo.to/vavoo-iptv/play/70116450872e039e89480
 #EXTINF:-1 tvg-name="TVS .c" group-title="Poland" tvg-logo="https://logo.huhu.to/logo?c=2667518075.png",TVS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2667518075eb9615562843
-
-#EXTINF:-1 tvg-name="TVT ZGORZELEC .c" group-title="Poland" tvg-logo="https://logo.huhu.to/logo?c=2163207394.png",TVT ZGORZELEC
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/21632073947a4765fb4d74
 
 #EXTINF:-1 tvg-name="ULTRA TV 4K .c" group-title="Poland",ULTRA TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
