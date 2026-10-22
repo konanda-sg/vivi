@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-10-22 11:19:46
+# Generated: 2026-10-22 16:47:38
 # Source: raw vavoo.to catalog URLs
 
 #EXTINF:-1 tvg-name=".BLACK .b" group-title="Russia",.BLACK
@@ -262,6 +262,10 @@ https://vavoo.to/vavoo-iptv/play/2887131026a2ae810c9556
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/37188019430d32eb1aa541
 
+#EXTINF:-1 tvg-name="DUCKTV HD .b" group-title="Russia",DUCKTV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/14132195406e5aec8edce7
+
 #EXTINF:-1 tvg-name="E TV .b" group-title="Russia",E TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/19547833036935b6dbbdf2
@@ -377,6 +381,10 @@ https://vavoo.to/vavoo-iptv/play/3128642648336aae1aa00c
 #EXTINF:-1 tvg-name="HD LIFE .s" group-title="Russia",HD LIFE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/593043989abd0b4ff48ae
+
+#EXTINF:-1 tvg-name="HDL .b" group-title="Russia",HDL
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/1460781813711084efe481
 
 #EXTINF:-1 tvg-name="HGTV HD .b" group-title="Russia",HGTV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -953,6 +961,10 @@ https://vavoo.to/vavoo-iptv/play/3566174635cc900a46850b
 #EXTINF:-1 tvg-name="TNT MUSIC .s" group-title="Russia",TNT MUSIC
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2530234158f580e2fde86c
+
+#EXTINF:-1 tvg-name="TOCHIKA ORTIVA .s" group-title="Russia",TOCHIKA ORTIVA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/82912891eb03bed2ea4e
 
 #EXTINF:-1 tvg-name="TRACE SPORT STARS HD .b" group-title="Russia",TRACE SPORT STARS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
